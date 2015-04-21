@@ -2,13 +2,13 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>05 - Dynamic Packages</Name>
-    <LastWriteTime>2015-04-21T04:43:43.0415394Z</LastWriteTime>
+    <LastWriteTime>2015-04-21T13:38:33.8680297Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
-      <Name>Package.dtsx</Name>
-      <LastWriteTime>2015-04-21T04:41:41.8466075Z</LastWriteTime>
+      <Name>DynamicPackages.dtsx</Name>
+      <LastWriteTime>2015-04-21T13:32:29.7242019Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
